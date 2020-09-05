@@ -21,7 +21,7 @@ https://docs.google.com/spreadsheets/d/1QWpB52OeCUx2Ro4xOzCuMzUvRaBLWKKUvoj6e6d4
 
 
 影片教學和示範:
-
+等待更新
 
 網頁版: 
 即將推出，更多新的功能。
