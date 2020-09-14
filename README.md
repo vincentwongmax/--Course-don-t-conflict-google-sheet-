@@ -1,3 +1,4 @@
+#選課不衝突神器
 # Course-don-t-conflict-google-sheet-
 (此版本是Google Sheet 版本), (即將更新網頁版)
 
