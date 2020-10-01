@@ -1,6 +1,6 @@
 #選課不衝突神器
 # Course-don-t-conflict-google-sheet-
-(此版本是Google Sheet 版本), (即將更新網頁版)
+(此版本是Google Sheet 版本), (網頁版請到https://github.com/vincentwongmax/Course-don-t-conflict-VUE)
 
 學生在選課時常常都會出現很多喜歡的科目，但往往就是不知道自己選上該科目後，很難確定與其他科目有沒有衝突，就像我同時有好幾個選修科目都很喜歡，但互相都有衝突，這個時候可以用以下的程式來分析要走那一條路，怎樣選才能最皆化，以下是教學和影片說明。
 
@@ -24,5 +24,4 @@ https://docs.google.com/spreadsheets/d/1QWpB52OeCUx2Ro4xOzCuMzUvRaBLWKKUvoj6e6d4
 影片教學和示範:
 等待更新
 
-網頁版: 
-即將推出，更多新的功能。
+
