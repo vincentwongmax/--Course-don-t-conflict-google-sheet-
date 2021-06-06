@@ -7,6 +7,9 @@
 ##下載連結:
 https://docs.google.com/spreadsheets/d/1QWpB52OeCUx2Ro4xOzCuMzUvRaBLWKKUvoj6e6d4V0E/edit#gid=0
 
+## 影片詳細教學
+https://www.youtube.com/watch?v=1CRYkdlRI10&ab_channel=mankinwomgmankinwomg
+
 使用說明:
 1.	開始時請先把GOOGLE SHEET 複製到自己的GOOGLE DRIVE 使用
     檔案-->建立副本
